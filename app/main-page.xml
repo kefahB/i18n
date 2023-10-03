@@ -1,0 +1,12 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="navigatingTo">
+    <ActionBar title="My App" icon="" />
+
+    <StackLayout class="p-20">
+        <Label text="{{L('inputs.origin')}}" class="h1 text-center" />
+        <Label text="{{L('msg_create_your_trip')}}" class="h1 text-center" />
+        <Button text="TO EN" tap="{{ languageEN }}" class="-primary" />
+        <Button text="TO FR" tap="{{ languageFR }}" class="-primary" />
+        <Button text="Navigate" tap="{{ navigate }}" class="-primary" />
+        <Label text="{{ message }}" class="h2 text-center" textWrap="true" />
+    </StackLayout>
+</Page>

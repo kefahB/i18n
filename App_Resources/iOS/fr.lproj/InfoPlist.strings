@@ -1,0 +1,5 @@
+"NSLocationAlwaysUsageDescription" = "Cocarz aura besoin de vous géolocaliser pour vous trouver les trajets le plus proche";
+"NSLocationWhenInUseUsageDescription" = "Cocarz aura besoin de vous géolocaliser pour vous trouver les trajets le plus proche";
+"NSPhotoLibraryUsageDescription" = "Cocarz a besoin de votre permission pour télécharger votre photo de profil";
+"NSCameraUsageDescription" = "Cocarz utilise la caméra pour scanner les Qr-code.";
+"CFBundleDisplayName" = "COCARZ";

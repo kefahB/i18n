@@ -1,0 +1,5 @@
+"NSLocationAlwaysUsageDescription" = "Cocarz zou willen toegang tot uw locatie";
+"NSLocationWhenInUseUsageDescription" = "Cocarz zou willen toegang tot uw locatie";
+"NSPhotoLibraryUsageDescription" = "Cocarz zou willen toegang tot uw foto's";
+"NSCameraUsageDescription" = "Cocarz zou willen toegang tot uw camera";
+"CFBundleDisplayName" = "COCARZ";

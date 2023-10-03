@@ -1,0 +1,7 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="navigatingTo" class="page">
+<Page.actionBar>
+	<ActionBar title="Second Page" icon="" class="action-bar">
+		</ActionBar>
+	</Page.actionBar>
+	<Label class="second-page" text="{{L('msg_booking_manuel')}}"/>
+</Page>
